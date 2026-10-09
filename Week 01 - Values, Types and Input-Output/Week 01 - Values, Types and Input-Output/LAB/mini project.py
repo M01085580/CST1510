@@ -1,10 +1,10 @@
-"""
+""
 RECORD CHECK  -  my version
 ===========================
 
 Name  : Matthias Munyao
 Lane  :   IT      
-Date  : 02/10/2026
+Date  : 2/10/2026
 
 Run it:   python template.py
 
