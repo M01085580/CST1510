@@ -1,0 +1,11 @@
+hostname,region,used,total,percent,status,region_upper
+srv-01,east,87,100,87.0,OK,Far from upper parts
+srv-02,east,65,100,65.0,OK,Far from upper parts
+srv-03,west,120,100,120.0,OVER LIMIT,westward
+srv-04,west,75,100,75.0,OK,westward
+srv-05,north,101,100,101.0,OVER LIMIT,UPPER PARTS
+srv-06,east,95,100,95.0,WARNING,Far from upper parts
+srv-07,west,101,100,101.0,OVER LIMIT,westward
+srv-08,north,92,100,92.0,WARNING,UPPER PARTS
+srv-09,east,88,100,88.0,OK,Far from upper parts
+srv-10,north,80,100,80.0,OK,UPPER PARTS
